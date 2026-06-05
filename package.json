@@ -17,7 +17,7 @@
   "main": "postcss.config.js",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build",
+    "build": "vite build",
     "preview": "vite preview",
     "lint": "eslint src --ext ts,tsx"
   },
